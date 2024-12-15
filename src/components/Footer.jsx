@@ -31,32 +31,31 @@ const Footer = () => {
           </ul>
           <ul className="flex flex-col items-start justify-start gap-3 font-satoshi font-normal text-sm">
             <h1 className="text-base font-semibold">Location</h1>
-            <li>support@euphoria.in</li>
-            <li>Eklingpura Chouraha, Ahmedabad Main Road</li>
-            <li>(NH 8- Near Mahadev Hotel) Udaipur, India- 313002</li>
+            <li>support@euphoria</li>
+            <li>Uzbekistan</li>
           </ul>
         </section>
 
         <section className="w-full h-full flex items-center justify-center sm:justify-between flex-wrap border-t-[1px] border-t-white gap-5 pt-5 ">
           <h1 className="text-white text-sm font-normal">
-            Copyright&copy;2023 Euphoria Pvt Ltd. All rights reserved.
+            2024 Euphoria
           </h1>
           <div className="flex items-center justify-center gap-4 text-white">
             <a
-              href="https://www.linkedin.com/in/pritam-ghosh-dev/"
+              href="https://www.linkedin.com"
               target="_blank"
               rel="noopener noreferrer"
             >
               <AiFillLinkedin className="w-5 h-5" />
             </a>
             <a
-              href="https://twitter.com/PritamGhosh010"
+              href="https://twitter.com"
               target="_blank"
               rel="noopener noreferrer"
             >
               <AiOutlineTwitter className="w-5 h-5" />
             </a>
-            <a href="https://github.com/PrtHub"
+            <a href="https://github.com"
              target="_blank"
              rel="noopener noreferrer"
              >
